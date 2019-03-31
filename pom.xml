@@ -13,6 +13,7 @@
 
         <module>spring-event</module>
         <module>javaagent</module>
+        <module>threadpool</module>
     </modules>
 
     <dependencies>
